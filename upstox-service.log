@@ -1,0 +1,790 @@
+2021-01-03 17:21:58,734 +0530 [Thread-0] INFO  (TradeDataProducer.java:30) - Trade data file reading and publishing trade to queue started
+2021-01-03 17:21:58,869 +0530 [Thread-0] INFO  (FileReaderJsonOneLinerImpl.java:38) - Reading Trades data from file trades.json
+2021-01-03 17:21:58,938 +0530 [Thread-0] INFO  (TradeDataProducer.java:39) - Trade data file reading and publishing trade to queue completed. Total time took = 0.1877561 Second
+2021-01-03 17:21:58,949 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XZECXXBT Subscriber OHLC output = {"volume":0.1,"event":"ohlc_notify","o":0.01947,"h":0.01947,"l":0.01947,"c":0,"symbol":"XZECXXBT","bar_num":1}
+2021-01-03 17:21:58,950 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":0.02,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.85,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:21:58,950 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":5.0,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.85,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:21:58,951 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":1.0,"event":"ohlc_notify","o":6538.8,"h":6538.8,"l":6538.8,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:21:58,951 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":1.498558,"event":"ohlc_notify","o":6538.8,"h":6538.8,"l":6538.2,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:21:58,951 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":4.556558,"event":"ohlc_notify","o":6538.8,"h":6538.8,"l":6537.9,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:21:58,951 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":4.999999,"event":"ohlc_notify","o":6538.8,"h":6538.8,"l":6537.7,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:21:58,952 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":4.99999942,"event":"ohlc_notify","o":6538.8,"h":6538.8,"l":6537.7,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:21:58,952 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXLMXXBT Subscriber OHLC output = {"volume":750.0,"event":"ohlc_notify","o":0.00003939,"h":0.00003939,"l":0.00003939,"c":0,"symbol":"XXLMXXBT","bar_num":1}
+2021-01-03 17:21:58,952 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAEUR Subscriber OHLC output = {"volume":44.0,"event":"ohlc_notify","o":0.07207,"h":0.07207,"l":0.07207,"c":0,"symbol":"ADAEUR","bar_num":1}
+2021-01-03 17:21:58,952 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":7.1589100000000006,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.61,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:21:58,952 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":5.55655742,"event":"ohlc_notify","o":6538.8,"h":6538.8,"l":6537.7,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:21:58,953 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":8.61355742,"event":"ohlc_notify","o":6538.8,"h":6538.8,"l":6537.6,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:21:58,954 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":9.99999742,"event":"ohlc_notify","o":6538.8,"h":6538.8,"l":6537.4,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:21:58,954 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":9.999997839999999,"event":"ohlc_notify","o":6538.8,"h":6538.8,"l":6537.4,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:21:58,956 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":2000.0,"event":"ohlc_notify","o":0.00008437,"h":0.00008437,"l":0.00008437,"c":0,"symbol":"XXRPXXBT","bar_num":1}
+2021-01-03 17:21:58,956 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":12.15891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.61,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:21:58,956 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":32.15891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.61,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:21:58,956 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXMRXXBT Subscriber OHLC output = {"volume":0.1,"event":"ohlc_notify","o":0.017468,"h":0.017468,"l":0.017468,"c":0,"symbol":"XXMRXXBT","bar_num":1}
+2021-01-03 17:21:58,957 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":32.65891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.61,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:21:58,957 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":32.76891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.57,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:21:58,957 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":37.76891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.55,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:21:58,957 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":42.76891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.55,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:21:58,957 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":42.96891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.53,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:21:58,958 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":47.96891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.52,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:21:58,958 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":52.96891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.52,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:21:58,958 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":55.96891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.47,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:21:58,958 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":55.99291,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.46,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:21:58,958 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":82.76891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.3,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:21:58,959 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":10.02499784,"event":"ohlc_notify","o":6538.8,"h":6538.8,"l":6537.4,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:21:58,959 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":10.342997839999999,"event":"ohlc_notify","o":6538.8,"h":6539.7,"l":6537.4,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:21:58,959 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":10.36799784,"event":"ohlc_notify","o":6538.8,"h":6539.7,"l":6537.4,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:21:58,959 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":10.39299784,"event":"ohlc_notify","o":6538.8,"h":6539.7,"l":6537.4,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:21:58,959 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":10.41799784,"event":"ohlc_notify","o":6538.8,"h":6539.7,"l":6537.4,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:21:58,960 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock GNOXBT Subscriber OHLC output = {"volume":1.35931,"event":"ohlc_notify","o":0.00399,"h":0.00399,"l":0.00399,"c":0,"symbol":"GNOXBT","bar_num":1}
+2021-01-03 17:21:58,960 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock GNOXBT Subscriber OHLC output = {"volume":1.36283504,"event":"ohlc_notify","o":0.00399,"h":0.00399,"l":0.00399,"c":0,"symbol":"GNOXBT","bar_num":1}
+2021-01-03 17:21:58,960 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHXXBT Subscriber OHLC output = {"volume":0.13954,"event":"ohlc_notify","o":0.03468,"h":0.03468,"l":0.03468,"c":0,"symbol":"XETHXXBT","bar_num":1}
+2021-01-03 17:21:58,960 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":87.76891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.3,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:21:58,960 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":89.76891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.3,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:21:58,961 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":94.76891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.3,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:21:58,961 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":132.76891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.3,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:21:58,961 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":134.76891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.3,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:21:58,961 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":139.26891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.3,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:21:58,961 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":147.43950999999998,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.3,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:21:58,962 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":10.44299784,"event":"ohlc_notify","o":6538.8,"h":6539.7,"l":6537.4,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:21:58,962 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":7448.3,"event":"ohlc_notify","o":0.00008437,"h":0.00008437,"l":0.00008422,"c":0,"symbol":"XXRPXXBT","bar_num":1}
+2021-01-03 17:21:58,962 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":12785.3,"event":"ohlc_notify","o":0.00008437,"h":0.00008437,"l":0.00008422,"c":0,"symbol":"XXRPXXBT","bar_num":1}
+2021-01-03 17:21:58,962 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":13852.55,"event":"ohlc_notify","o":0.00008437,"h":0.00008437,"l":0.00008422,"c":0,"symbol":"XXRPXXBT","bar_num":1}
+2021-01-03 17:21:58,962 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":155.43950999999998,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.3,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:21:58,962 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":190.66351,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.3,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:21:58,963 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":197.43950999999998,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.26,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:21:58,963 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":11.02299784,"event":"ohlc_notify","o":6538.8,"h":6539.7,"l":6535,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:21:58,963 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":14728.377,"event":"ohlc_notify","o":0.00008437,"h":0.00008437,"l":0.000084,"c":0,"symbol":"XXRPXXBT","bar_num":1}
+2021-01-03 17:21:58,963 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":14790.103000000001,"event":"ohlc_notify","o":0.00008437,"h":0.00008437,"l":0.00008395,"c":0,"symbol":"XXRPXXBT","bar_num":1}
+2021-01-03 17:21:58,963 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAXBT Subscriber OHLC output = {"volume":157.0,"event":"ohlc_notify","o":0.00001272,"h":0.00001272,"l":0.00001272,"c":0,"symbol":"ADAXBT","bar_num":1}
+2021-01-03 17:21:58,964 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAXBT Subscriber OHLC output = {"volume":5876.0,"event":"ohlc_notify","o":0.00001272,"h":0.00001272,"l":0.00001272,"c":0,"symbol":"ADAXBT","bar_num":1}
+2021-01-03 17:21:58,964 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:64) - Not to Publish as Stock Hilti it not subscribed OHLC output = {"volume":2.0,"event":"ohlc_notify","o":0.00001272,"h":0.00001272,"l":0.00001272,"c":0,"symbol":"Hilti","bar_num":1}
+2021-01-03 17:21:58,964 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:64) - Not to Publish as Stock Hilti it not subscribed OHLC output = {"volume":6.0,"event":"ohlc_notify","o":0.00001272,"h":0.00001272,"l":0.00001272,"c":0,"symbol":"Hilti","bar_num":1}
+2021-01-03 17:22:13,733 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock XETHZUSD Published
+2021-01-03 17:22:13,734 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":197.43950999999998,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.26,"c":226.26,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:22:13,734 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHZUSD Published
+2021-01-03 17:22:13,734 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHZUSD","bar_num":2}
+2021-01-03 17:22:13,734 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock XXLMXXBT Published
+2021-01-03 17:22:13,734 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXLMXXBT Subscriber OHLC output = {"volume":750.0,"event":"ohlc_notify","o":0.00003939,"h":0.00003939,"l":0.00003939,"c":0.00003939,"symbol":"XXLMXXBT","bar_num":1}
+2021-01-03 17:22:13,735 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXLMXXBT Published
+2021-01-03 17:22:13,735 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXLMXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXLMXXBT","bar_num":2}
+2021-01-03 17:22:13,735 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock XZECXXBT Published
+2021-01-03 17:22:13,735 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XZECXXBT Subscriber OHLC output = {"volume":0.1,"event":"ohlc_notify","o":0.01947,"h":0.01947,"l":0.01947,"c":0.01947,"symbol":"XZECXXBT","bar_num":1}
+2021-01-03 17:22:13,735 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XZECXXBT Published
+2021-01-03 17:22:13,736 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XZECXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XZECXXBT","bar_num":2}
+2021-01-03 17:22:13,736 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock ADAEUR Published
+2021-01-03 17:22:13,736 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAEUR Published
+2021-01-03 17:22:13,736 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock ADAXBT Published
+2021-01-03 17:22:13,736 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAXBT Published
+2021-01-03 17:22:13,737 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock Hilti Published
+2021-01-03 17:22:13,736 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAEUR Subscriber OHLC output = {"volume":44.0,"event":"ohlc_notify","o":0.07207,"h":0.07207,"l":0.07207,"c":0.07207,"symbol":"ADAEUR","bar_num":1}
+2021-01-03 17:22:13,737 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock Hilti Published
+2021-01-03 17:22:13,737 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock XXRPXXBT Published
+2021-01-03 17:22:13,737 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXRPXXBT Published
+2021-01-03 17:22:13,737 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock XXMRXXBT Published
+2021-01-03 17:22:13,737 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAEUR Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAEUR","bar_num":2}
+2021-01-03 17:22:13,738 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXMRXXBT Published
+2021-01-03 17:22:13,738 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock GNOXBT Published
+2021-01-03 17:22:13,738 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAXBT Subscriber OHLC output = {"volume":5876.0,"event":"ohlc_notify","o":0.00001272,"h":0.00001272,"l":0.00001272,"c":0.00001272,"symbol":"ADAXBT","bar_num":1}
+2021-01-03 17:22:13,738 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock GNOXBT Published
+2021-01-03 17:22:13,738 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock XXBTZUSD Published
+2021-01-03 17:22:13,738 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAXBT","bar_num":2}
+2021-01-03 17:22:13,739 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXBTZUSD Published
+2021-01-03 17:22:13,739 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock XETHXXBT Published
+2021-01-03 17:22:13,739 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:64) - Not to Publish as Stock Hilti it not subscribed OHLC output = {"volume":6.0,"event":"ohlc_notify","o":0.00001272,"h":0.00001272,"l":0.00001272,"c":0.00001272,"symbol":"Hilti","bar_num":1}
+2021-01-03 17:22:13,739 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHXXBT Published
+2021-01-03 17:22:13,739 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:64) - Not to Publish as Stock Hilti it not subscribed OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"Hilti","bar_num":2}
+2021-01-03 17:22:13,740 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":14790.103000000001,"event":"ohlc_notify","o":0.00008437,"h":0.00008437,"l":0.00008395,"c":0.00008395,"symbol":"XXRPXXBT","bar_num":1}
+2021-01-03 17:22:13,740 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXRPXXBT","bar_num":2}
+2021-01-03 17:22:13,740 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXMRXXBT Subscriber OHLC output = {"volume":0.1,"event":"ohlc_notify","o":0.017468,"h":0.017468,"l":0.017468,"c":0.017468,"symbol":"XXMRXXBT","bar_num":1}
+2021-01-03 17:22:13,740 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXMRXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXMRXXBT","bar_num":2}
+2021-01-03 17:22:13,740 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock GNOXBT Subscriber OHLC output = {"volume":1.36283504,"event":"ohlc_notify","o":0.00399,"h":0.00399,"l":0.00399,"c":0.00399,"symbol":"GNOXBT","bar_num":1}
+2021-01-03 17:22:13,740 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock GNOXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"GNOXBT","bar_num":2}
+2021-01-03 17:22:13,741 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":11.02299784,"event":"ohlc_notify","o":6538.8,"h":6539.7,"l":6535,"c":6535,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:22:13,741 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXBTZUSD","bar_num":2}
+2021-01-03 17:22:13,741 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHXXBT Subscriber OHLC output = {"volume":0.13954,"event":"ohlc_notify","o":0.03468,"h":0.03468,"l":0.03468,"c":0.03468,"symbol":"XETHXXBT","bar_num":1}
+2021-01-03 17:22:13,741 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHXXBT","bar_num":2}
+2021-01-03 17:22:28,739 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHZUSD Published
+2021-01-03 17:22:28,739 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXLMXXBT Published
+2021-01-03 17:22:28,739 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XZECXXBT Published
+2021-01-03 17:22:28,739 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAEUR Published
+2021-01-03 17:22:28,739 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHZUSD","bar_num":3}
+2021-01-03 17:22:28,739 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAXBT Published
+2021-01-03 17:22:28,740 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock Hilti Published
+2021-01-03 17:22:28,740 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXRPXXBT Published
+2021-01-03 17:22:28,739 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXLMXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXLMXXBT","bar_num":3}
+2021-01-03 17:22:28,740 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XZECXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XZECXXBT","bar_num":3}
+2021-01-03 17:22:28,740 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAEUR Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAEUR","bar_num":3}
+2021-01-03 17:22:28,740 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAXBT","bar_num":3}
+2021-01-03 17:22:28,740 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:64) - Not to Publish as Stock Hilti it not subscribed OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"Hilti","bar_num":3}
+2021-01-03 17:22:28,740 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXRPXXBT","bar_num":3}
+2021-01-03 17:22:28,741 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXMRXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXMRXXBT","bar_num":3}
+2021-01-03 17:22:28,740 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXMRXXBT Published
+2021-01-03 17:22:28,741 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock GNOXBT Published
+2021-01-03 17:22:28,741 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXBTZUSD Published
+2021-01-03 17:22:28,741 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHXXBT Published
+2021-01-03 17:22:28,741 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock GNOXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"GNOXBT","bar_num":3}
+2021-01-03 17:22:28,741 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXBTZUSD","bar_num":3}
+2021-01-03 17:22:28,742 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHXXBT","bar_num":3}
+2021-01-03 17:22:43,741 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHZUSD Published
+2021-01-03 17:22:43,741 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHZUSD","bar_num":4}
+2021-01-03 17:22:43,741 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXLMXXBT Published
+2021-01-03 17:22:43,741 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XZECXXBT Published
+2021-01-03 17:22:43,741 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAEUR Published
+2021-01-03 17:22:43,742 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAXBT Published
+2021-01-03 17:22:43,742 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock Hilti Published
+2021-01-03 17:22:43,742 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXRPXXBT Published
+2021-01-03 17:22:43,742 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXMRXXBT Published
+2021-01-03 17:22:43,742 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock GNOXBT Published
+2021-01-03 17:22:43,742 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXBTZUSD Published
+2021-01-03 17:22:43,742 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHXXBT Published
+2021-01-03 17:22:43,741 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXLMXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXLMXXBT","bar_num":4}
+2021-01-03 17:22:43,742 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XZECXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XZECXXBT","bar_num":4}
+2021-01-03 17:22:43,743 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAEUR Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAEUR","bar_num":4}
+2021-01-03 17:22:43,743 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAXBT","bar_num":4}
+2021-01-03 17:22:43,743 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:64) - Not to Publish as Stock Hilti it not subscribed OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"Hilti","bar_num":4}
+2021-01-03 17:22:43,743 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXRPXXBT","bar_num":4}
+2021-01-03 17:22:43,743 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXMRXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXMRXXBT","bar_num":4}
+2021-01-03 17:22:43,743 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock GNOXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"GNOXBT","bar_num":4}
+2021-01-03 17:22:43,743 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXBTZUSD","bar_num":4}
+2021-01-03 17:22:43,743 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHXXBT","bar_num":4}
+2021-01-03 17:22:58,742 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHZUSD Published
+2021-01-03 17:22:58,742 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXLMXXBT Published
+2021-01-03 17:22:58,742 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XZECXXBT Published
+2021-01-03 17:22:58,742 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAEUR Published
+2021-01-03 17:22:58,742 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAXBT Published
+2021-01-03 17:22:58,742 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock Hilti Published
+2021-01-03 17:22:58,742 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHZUSD","bar_num":5}
+2021-01-03 17:22:58,742 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXRPXXBT Published
+2021-01-03 17:22:58,743 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXMRXXBT Published
+2021-01-03 17:22:58,743 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock GNOXBT Published
+2021-01-03 17:22:58,742 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXLMXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXLMXXBT","bar_num":5}
+2021-01-03 17:22:58,743 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXBTZUSD Published
+2021-01-03 17:22:58,743 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHXXBT Published
+2021-01-03 17:22:58,743 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XZECXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XZECXXBT","bar_num":5}
+2021-01-03 17:22:58,743 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAEUR Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAEUR","bar_num":5}
+2021-01-03 17:22:58,744 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAXBT","bar_num":5}
+2021-01-03 17:22:58,744 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:64) - Not to Publish as Stock Hilti it not subscribed OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"Hilti","bar_num":5}
+2021-01-03 17:22:58,744 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXRPXXBT","bar_num":5}
+2021-01-03 17:22:58,744 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXMRXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXMRXXBT","bar_num":5}
+2021-01-03 17:22:58,744 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock GNOXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"GNOXBT","bar_num":5}
+2021-01-03 17:22:58,744 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXBTZUSD","bar_num":5}
+2021-01-03 17:22:58,745 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHXXBT","bar_num":5}
+2021-01-03 17:28:26,979 +0530 [Test worker] INFO  (FileReaderJsonOneLinerImpl.java:38) - Reading Trades data from file trades.json
+2021-01-03 17:28:26,986 +0530 [Test worker] ERROR (FileReaderJsonOneLinerImpl.java:50) - Failed to read file:  null class com.upstox.dto.Trade {}
+java.io.FileNotFoundException: File not found
+	at com.upstox.common.impl.FileReaderJsonOneLinerImpl.readAll(FileReaderJsonOneLinerImpl.java:44)
+	at com.upstox.common.impl.FileReaderJsonOneLinerImplTest.lambda$testReadAll_FileNotFound$2(FileReaderJsonOneLinerImplTest.java:30)
+	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:55)
+	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:37)
+	at org.junit.jupiter.api.Assertions.assertThrows(Assertions.java:2952)
+	at com.upstox.common.impl.FileReaderJsonOneLinerImplTest.testReadAll_FileNotFound(FileReaderJsonOneLinerImplTest.java:30)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at junit.framework.TestCase.runTest(TestCase.java:176)
+	at junit.framework.TestCase.runBare(TestCase.java:141)
+	at junit.framework.TestResult$1.protect(TestResult.java:122)
+	at junit.framework.TestResult.runProtected(TestResult.java:142)
+	at junit.framework.TestResult.run(TestResult.java:125)
+	at junit.framework.TestCase.run(TestCase.java:129)
+	at junit.framework.TestSuite.runTest(TestSuite.java:252)
+	at junit.framework.TestSuite.run(TestSuite.java:247)
+	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecutor.runTestClass(JUnitTestClassExecutor.java:110)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecutor.execute(JUnitTestClassExecutor.java:58)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecutor.execute(JUnitTestClassExecutor.java:38)
+	at org.gradle.api.internal.tasks.testing.junit.AbstractJUnitTestClassProcessor.processTestClass(AbstractJUnitTestClassProcessor.java:62)
+	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.processTestClass(SuiteTestClassProcessor.java:51)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)
+	at com.sun.proxy.$Proxy2.processTestClass(Unknown Source)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.processTestClass(TestWorker.java:119)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:182)
+	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:164)
+	at org.gradle.internal.remote.internal.hub.MessageHub$Handler.run(MessageHub.java:414)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:48)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:56)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+2021-01-03 17:28:26,997 +0530 [Test worker] INFO  (FileReaderJsonOneLinerImpl.java:38) - Reading Trades data from file trades.json
+2021-01-03 17:28:27,685 +0530 [Test worker] INFO  (FileReaderJsonOneLinerImpl.java:38) - Reading Trades data from file trades.json
+2021-01-03 17:28:27,690 +0530 [Test worker] ERROR (FileReaderJsonOneLinerImpl.java:60) - Failed to parse json: {"sym":"XZECXXBT", "T":"Trade",  "P":ww0.01947, "Q":0.1, "TS":1538409720.3813, "side": "s", "TS2":1538409725339216503,} class com.upstox.dto.Trade {}
+com.fasterxml.jackson.core.JsonParseException: Unexpected character ('w' (code 119)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')
+ at [Source: java.io.StringReader@6b6524b4; line: 1, column: 39]
+	at com.fasterxml.jackson.core.JsonParser._constructError(JsonParser.java:1284)
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportError(ParserMinimalBase.java:588)
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportUnexpectedChar(ParserMinimalBase.java:509)
+	at com.fasterxml.jackson.core.json.ReaderBasedJsonParser._handleUnexpectedValue(ReaderBasedJsonParser.java:1206)
+	at com.fasterxml.jackson.core.json.ReaderBasedJsonParser.nextToken(ReaderBasedJsonParser.java:497)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserializeFromObject(BeanDeserializer.java:283)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:112)
+	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:2563)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:1805)
+	at com.upstox.common.impl.FileReaderJsonOneLinerImpl.parse(FileReaderJsonOneLinerImpl.java:57)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:177)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1654)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578)
+	at com.upstox.common.impl.FileReaderJsonOneLinerImplTest.lambda$testReadAll_InvalidJson$3(FileReaderJsonOneLinerImplTest.java:37)
+	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:55)
+	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:37)
+	at org.junit.jupiter.api.Assertions.assertThrows(Assertions.java:2952)
+	at com.upstox.common.impl.FileReaderJsonOneLinerImplTest.testReadAll_InvalidJson(FileReaderJsonOneLinerImplTest.java:37)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at junit.framework.TestCase.runTest(TestCase.java:176)
+	at junit.framework.TestCase.runBare(TestCase.java:141)
+	at junit.framework.TestResult$1.protect(TestResult.java:122)
+	at junit.framework.TestResult.runProtected(TestResult.java:142)
+	at junit.framework.TestResult.run(TestResult.java:125)
+	at junit.framework.TestCase.run(TestCase.java:129)
+	at junit.framework.TestSuite.runTest(TestSuite.java:252)
+	at junit.framework.TestSuite.run(TestSuite.java:247)
+	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecutor.runTestClass(JUnitTestClassExecutor.java:110)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecutor.execute(JUnitTestClassExecutor.java:58)
+	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecutor.execute(JUnitTestClassExecutor.java:38)
+	at org.gradle.api.internal.tasks.testing.junit.AbstractJUnitTestClassProcessor.processTestClass(AbstractJUnitTestClassProcessor.java:62)
+	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.processTestClass(SuiteTestClassProcessor.java:51)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)
+	at com.sun.proxy.$Proxy2.processTestClass(Unknown Source)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.processTestClass(TestWorker.java:119)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:182)
+	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:164)
+	at org.gradle.internal.remote.internal.hub.MessageHub$Handler.run(MessageHub.java:414)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:48)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:56)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+2021-01-03 17:28:27,730 +0530 [Thread-3] INFO  (TradeDataProducer.java:30) - Trade data file reading and publishing trade to queue started
+2021-01-03 17:28:27,740 +0530 [Thread-3] INFO  (FileReaderJsonOneLinerImpl.java:38) - Reading Trades data from file trades.json
+2021-01-03 17:28:27,749 +0530 [Thread-3] INFO  (TradeDataProducer.java:39) - Trade data file reading and publishing trade to queue completed. Total time took = 0.0069393 Second
+2021-01-03 17:28:27,776 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XZECXXBT Subscriber OHLC output = {"volume":0.1,"event":"ohlc_notify","o":0.01947,"h":0.01947,"l":0.01947,"c":0,"symbol":"XZECXXBT","bar_num":1}
+2021-01-03 17:28:27,777 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":0.02,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.85,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:28:27,777 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":5.0,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.85,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:28:27,778 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":1.0,"event":"ohlc_notify","o":6538.8,"h":6538.8,"l":6538.8,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:28:27,778 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":1.498558,"event":"ohlc_notify","o":6538.8,"h":6538.8,"l":6538.2,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:28:27,778 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":4.556558,"event":"ohlc_notify","o":6538.8,"h":6538.8,"l":6537.9,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:28:27,779 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":4.999999,"event":"ohlc_notify","o":6538.8,"h":6538.8,"l":6537.7,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:28:27,779 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":4.99999942,"event":"ohlc_notify","o":6538.8,"h":6538.8,"l":6537.7,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:28:27,780 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXLMXXBT Subscriber OHLC output = {"volume":750.0,"event":"ohlc_notify","o":0.00003939,"h":0.00003939,"l":0.00003939,"c":0,"symbol":"XXLMXXBT","bar_num":1}
+2021-01-03 17:28:27,781 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAEUR Subscriber OHLC output = {"volume":44.0,"event":"ohlc_notify","o":0.07207,"h":0.07207,"l":0.07207,"c":0,"symbol":"ADAEUR","bar_num":1}
+2021-01-03 17:28:27,781 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":7.1589100000000006,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.61,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:28:27,781 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":5.55655742,"event":"ohlc_notify","o":6538.8,"h":6538.8,"l":6537.7,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:28:27,782 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":8.61355742,"event":"ohlc_notify","o":6538.8,"h":6538.8,"l":6537.6,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:28:27,782 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":9.99999742,"event":"ohlc_notify","o":6538.8,"h":6538.8,"l":6537.4,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:28:27,782 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":9.999997839999999,"event":"ohlc_notify","o":6538.8,"h":6538.8,"l":6537.4,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:28:27,784 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":2000.0,"event":"ohlc_notify","o":0.00008437,"h":0.00008437,"l":0.00008437,"c":0,"symbol":"XXRPXXBT","bar_num":1}
+2021-01-03 17:28:27,785 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":12.15891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.61,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:28:27,786 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":32.15891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.61,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:28:27,786 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXMRXXBT Subscriber OHLC output = {"volume":0.1,"event":"ohlc_notify","o":0.017468,"h":0.017468,"l":0.017468,"c":0,"symbol":"XXMRXXBT","bar_num":1}
+2021-01-03 17:28:27,786 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":32.65891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.61,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:28:27,787 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":32.76891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.57,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:28:27,787 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":37.76891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.55,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:28:27,788 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":42.76891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.55,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:28:27,788 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":42.96891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.53,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:28:27,788 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":47.96891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.52,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:28:27,789 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":52.96891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.52,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:28:27,789 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":55.96891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.47,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:28:27,790 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":55.99291,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.46,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:28:27,790 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":82.76891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.3,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:28:27,790 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":10.02499784,"event":"ohlc_notify","o":6538.8,"h":6538.8,"l":6537.4,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:28:27,791 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":10.342997839999999,"event":"ohlc_notify","o":6538.8,"h":6539.7,"l":6537.4,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:28:27,791 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":10.36799784,"event":"ohlc_notify","o":6538.8,"h":6539.7,"l":6537.4,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:28:27,792 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":10.39299784,"event":"ohlc_notify","o":6538.8,"h":6539.7,"l":6537.4,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:28:27,792 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":10.41799784,"event":"ohlc_notify","o":6538.8,"h":6539.7,"l":6537.4,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:28:27,792 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock GNOXBT Subscriber OHLC output = {"volume":1.35931,"event":"ohlc_notify","o":0.00399,"h":0.00399,"l":0.00399,"c":0,"symbol":"GNOXBT","bar_num":1}
+2021-01-03 17:28:27,793 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock GNOXBT Subscriber OHLC output = {"volume":1.36283504,"event":"ohlc_notify","o":0.00399,"h":0.00399,"l":0.00399,"c":0,"symbol":"GNOXBT","bar_num":1}
+2021-01-03 17:28:27,793 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHXXBT Subscriber OHLC output = {"volume":0.13954,"event":"ohlc_notify","o":0.03468,"h":0.03468,"l":0.03468,"c":0,"symbol":"XETHXXBT","bar_num":1}
+2021-01-03 17:28:27,794 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":87.76891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.3,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:28:27,794 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":89.76891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.3,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:28:27,794 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":94.76891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.3,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:28:27,795 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":132.76891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.3,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:28:27,795 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":134.76891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.3,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:28:27,795 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":139.26891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.3,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:28:27,796 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":147.43950999999998,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.3,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:28:27,796 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":10.44299784,"event":"ohlc_notify","o":6538.8,"h":6539.7,"l":6537.4,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:28:27,796 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":7448.3,"event":"ohlc_notify","o":0.00008437,"h":0.00008437,"l":0.00008422,"c":0,"symbol":"XXRPXXBT","bar_num":1}
+2021-01-03 17:28:27,797 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":12785.3,"event":"ohlc_notify","o":0.00008437,"h":0.00008437,"l":0.00008422,"c":0,"symbol":"XXRPXXBT","bar_num":1}
+2021-01-03 17:28:27,797 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":13852.55,"event":"ohlc_notify","o":0.00008437,"h":0.00008437,"l":0.00008422,"c":0,"symbol":"XXRPXXBT","bar_num":1}
+2021-01-03 17:28:27,797 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":155.43950999999998,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.3,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:28:27,798 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":190.66351,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.3,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:28:27,798 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":197.43950999999998,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.26,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:28:27,798 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":11.02299784,"event":"ohlc_notify","o":6538.8,"h":6539.7,"l":6535,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:28:27,799 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":14728.377,"event":"ohlc_notify","o":0.00008437,"h":0.00008437,"l":0.000084,"c":0,"symbol":"XXRPXXBT","bar_num":1}
+2021-01-03 17:28:27,799 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":14790.103000000001,"event":"ohlc_notify","o":0.00008437,"h":0.00008437,"l":0.00008395,"c":0,"symbol":"XXRPXXBT","bar_num":1}
+2021-01-03 17:28:27,800 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAXBT Subscriber OHLC output = {"volume":157.0,"event":"ohlc_notify","o":0.00001272,"h":0.00001272,"l":0.00001272,"c":0,"symbol":"ADAXBT","bar_num":1}
+2021-01-03 17:28:27,800 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAXBT Subscriber OHLC output = {"volume":5876.0,"event":"ohlc_notify","o":0.00001272,"h":0.00001272,"l":0.00001272,"c":0,"symbol":"ADAXBT","bar_num":1}
+2021-01-03 17:28:27,801 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:64) - Not to Publish as Stock Hilti it not subscribed OHLC output = {"volume":2.0,"event":"ohlc_notify","o":0.00001272,"h":0.00001272,"l":0.00001272,"c":0,"symbol":"Hilti","bar_num":1}
+2021-01-03 17:28:27,801 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:64) - Not to Publish as Stock Hilti it not subscribed OHLC output = {"volume":6.0,"event":"ohlc_notify","o":0.00001272,"h":0.00001272,"l":0.00001272,"c":0,"symbol":"Hilti","bar_num":1}
+2021-01-03 17:28:42,731 +0530 [Thread-4] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock XETHZUSD Published
+2021-01-03 17:28:42,731 +0530 [Thread-4] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHZUSD Published
+2021-01-03 17:28:42,731 +0530 [Thread-4] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock XXLMXXBT Published
+2021-01-03 17:28:42,731 +0530 [Thread-4] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXLMXXBT Published
+2021-01-03 17:28:42,732 +0530 [Thread-4] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock XZECXXBT Published
+2021-01-03 17:28:42,731 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":197.43950999999998,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.26,"c":226.26,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:28:42,732 +0530 [Thread-4] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XZECXXBT Published
+2021-01-03 17:28:42,732 +0530 [Thread-4] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock ADAEUR Published
+2021-01-03 17:28:42,732 +0530 [Thread-4] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAEUR Published
+2021-01-03 17:28:42,732 +0530 [Thread-4] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock ADAXBT Published
+2021-01-03 17:28:42,732 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHZUSD","bar_num":2}
+2021-01-03 17:28:42,733 +0530 [Thread-4] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAXBT Published
+2021-01-03 17:28:42,733 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXLMXXBT Subscriber OHLC output = {"volume":750.0,"event":"ohlc_notify","o":0.00003939,"h":0.00003939,"l":0.00003939,"c":0.00003939,"symbol":"XXLMXXBT","bar_num":1}
+2021-01-03 17:28:42,733 +0530 [Thread-4] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock Hilti Published
+2021-01-03 17:28:42,733 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXLMXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXLMXXBT","bar_num":2}
+2021-01-03 17:28:42,733 +0530 [Thread-4] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock Hilti Published
+2021-01-03 17:28:42,734 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XZECXXBT Subscriber OHLC output = {"volume":0.1,"event":"ohlc_notify","o":0.01947,"h":0.01947,"l":0.01947,"c":0.01947,"symbol":"XZECXXBT","bar_num":1}
+2021-01-03 17:28:42,734 +0530 [Thread-4] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock XXRPXXBT Published
+2021-01-03 17:28:42,734 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XZECXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XZECXXBT","bar_num":2}
+2021-01-03 17:28:42,734 +0530 [Thread-4] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXRPXXBT Published
+2021-01-03 17:28:42,735 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAEUR Subscriber OHLC output = {"volume":44.0,"event":"ohlc_notify","o":0.07207,"h":0.07207,"l":0.07207,"c":0.07207,"symbol":"ADAEUR","bar_num":1}
+2021-01-03 17:28:42,735 +0530 [Thread-4] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock XXMRXXBT Published
+2021-01-03 17:28:42,735 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAEUR Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAEUR","bar_num":2}
+2021-01-03 17:28:42,735 +0530 [Thread-4] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXMRXXBT Published
+2021-01-03 17:28:42,736 +0530 [Thread-4] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock GNOXBT Published
+2021-01-03 17:28:42,736 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAXBT Subscriber OHLC output = {"volume":5876.0,"event":"ohlc_notify","o":0.00001272,"h":0.00001272,"l":0.00001272,"c":0.00001272,"symbol":"ADAXBT","bar_num":1}
+2021-01-03 17:28:42,736 +0530 [Thread-4] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock GNOXBT Published
+2021-01-03 17:28:42,736 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAXBT","bar_num":2}
+2021-01-03 17:28:42,736 +0530 [Thread-4] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock XXBTZUSD Published
+2021-01-03 17:28:42,737 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:64) - Not to Publish as Stock Hilti it not subscribed OHLC output = {"volume":6.0,"event":"ohlc_notify","o":0.00001272,"h":0.00001272,"l":0.00001272,"c":0.00001272,"symbol":"Hilti","bar_num":1}
+2021-01-03 17:28:42,737 +0530 [Thread-4] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXBTZUSD Published
+2021-01-03 17:28:42,737 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:64) - Not to Publish as Stock Hilti it not subscribed OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"Hilti","bar_num":2}
+2021-01-03 17:28:42,737 +0530 [Thread-4] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock XETHXXBT Published
+2021-01-03 17:28:42,738 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":14790.103000000001,"event":"ohlc_notify","o":0.00008437,"h":0.00008437,"l":0.00008395,"c":0.00008395,"symbol":"XXRPXXBT","bar_num":1}
+2021-01-03 17:28:42,738 +0530 [Thread-4] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHXXBT Published
+2021-01-03 17:28:42,738 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXRPXXBT","bar_num":2}
+2021-01-03 17:28:42,739 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXMRXXBT Subscriber OHLC output = {"volume":0.1,"event":"ohlc_notify","o":0.017468,"h":0.017468,"l":0.017468,"c":0.017468,"symbol":"XXMRXXBT","bar_num":1}
+2021-01-03 17:28:42,739 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXMRXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXMRXXBT","bar_num":2}
+2021-01-03 17:28:42,739 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock GNOXBT Subscriber OHLC output = {"volume":1.36283504,"event":"ohlc_notify","o":0.00399,"h":0.00399,"l":0.00399,"c":0.00399,"symbol":"GNOXBT","bar_num":1}
+2021-01-03 17:28:42,739 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock GNOXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"GNOXBT","bar_num":2}
+2021-01-03 17:28:42,740 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":11.02299784,"event":"ohlc_notify","o":6538.8,"h":6539.7,"l":6535,"c":6535,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:28:42,740 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXBTZUSD","bar_num":2}
+2021-01-03 17:28:42,740 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHXXBT Subscriber OHLC output = {"volume":0.13954,"event":"ohlc_notify","o":0.03468,"h":0.03468,"l":0.03468,"c":0.03468,"symbol":"XETHXXBT","bar_num":1}
+2021-01-03 17:28:42,740 +0530 [Thread-5] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHXXBT","bar_num":2}
+2021-01-03 17:48:33,193 +0530 [Thread-0] INFO  (TradeDataProducer.java:30) - Trade data file reading and publishing trade to queue started
+2021-01-03 17:48:33,470 +0530 [Thread-0] INFO  (FileReaderJsonOneLinerImpl.java:38) - Reading Trades data from file trades.json
+2021-01-03 17:48:33,580 +0530 [Thread-0] INFO  (TradeDataProducer.java:39) - Trade data file reading and publishing trade to queue completed. Total time took = 0.342181 Second
+2021-01-03 17:48:33,589 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XZECXXBT Subscriber OHLC output = {"volume":0.1,"event":"ohlc_notify","o":0.01947,"h":0.01947,"l":0.01947,"c":0,"symbol":"XZECXXBT","bar_num":1}
+2021-01-03 17:48:33,590 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":0.02,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.85,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:48:33,591 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":5.0,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.85,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:48:33,591 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":1.0,"event":"ohlc_notify","o":6538.8,"h":6538.8,"l":6538.8,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:48:33,592 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":1.498558,"event":"ohlc_notify","o":6538.8,"h":6538.8,"l":6538.2,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:48:33,592 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":4.556558,"event":"ohlc_notify","o":6538.8,"h":6538.8,"l":6537.9,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:48:33,592 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":4.999999,"event":"ohlc_notify","o":6538.8,"h":6538.8,"l":6537.7,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:48:33,593 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":4.99999942,"event":"ohlc_notify","o":6538.8,"h":6538.8,"l":6537.7,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:48:33,593 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXLMXXBT Subscriber OHLC output = {"volume":750.0,"event":"ohlc_notify","o":0.00003939,"h":0.00003939,"l":0.00003939,"c":0,"symbol":"XXLMXXBT","bar_num":1}
+2021-01-03 17:48:33,593 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAEUR Subscriber OHLC output = {"volume":44.0,"event":"ohlc_notify","o":0.07207,"h":0.07207,"l":0.07207,"c":0,"symbol":"ADAEUR","bar_num":1}
+2021-01-03 17:48:33,594 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":7.1589100000000006,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.61,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:48:33,594 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":5.55655742,"event":"ohlc_notify","o":6538.8,"h":6538.8,"l":6537.7,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:48:33,594 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":8.61355742,"event":"ohlc_notify","o":6538.8,"h":6538.8,"l":6537.6,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:48:33,596 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":9.99999742,"event":"ohlc_notify","o":6538.8,"h":6538.8,"l":6537.4,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:48:33,596 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":9.999997839999999,"event":"ohlc_notify","o":6538.8,"h":6538.8,"l":6537.4,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:48:33,599 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":2000.0,"event":"ohlc_notify","o":0.00008437,"h":0.00008437,"l":0.00008437,"c":0,"symbol":"XXRPXXBT","bar_num":1}
+2021-01-03 17:48:33,600 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":12.15891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.61,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:48:33,600 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":32.15891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.61,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:48:33,601 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXMRXXBT Subscriber OHLC output = {"volume":0.1,"event":"ohlc_notify","o":0.017468,"h":0.017468,"l":0.017468,"c":0,"symbol":"XXMRXXBT","bar_num":1}
+2021-01-03 17:48:33,601 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":32.65891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.61,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:48:33,602 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":32.76891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.57,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:48:33,602 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":37.76891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.55,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:48:33,602 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":42.76891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.55,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:48:33,603 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":42.96891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.53,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:48:33,603 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":47.96891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.52,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:48:33,604 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":52.96891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.52,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:48:33,604 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":55.96891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.47,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:48:33,605 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":55.99291,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.46,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:48:33,605 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":82.76891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.3,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:48:33,605 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":10.02499784,"event":"ohlc_notify","o":6538.8,"h":6538.8,"l":6537.4,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:48:33,606 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":10.342997839999999,"event":"ohlc_notify","o":6538.8,"h":6539.7,"l":6537.4,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:48:33,607 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":10.36799784,"event":"ohlc_notify","o":6538.8,"h":6539.7,"l":6537.4,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:48:33,607 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":10.39299784,"event":"ohlc_notify","o":6538.8,"h":6539.7,"l":6537.4,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:48:33,608 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":10.41799784,"event":"ohlc_notify","o":6538.8,"h":6539.7,"l":6537.4,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:48:33,608 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock GNOXBT Subscriber OHLC output = {"volume":1.35931,"event":"ohlc_notify","o":0.00399,"h":0.00399,"l":0.00399,"c":0,"symbol":"GNOXBT","bar_num":1}
+2021-01-03 17:48:33,609 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock GNOXBT Subscriber OHLC output = {"volume":1.36283504,"event":"ohlc_notify","o":0.00399,"h":0.00399,"l":0.00399,"c":0,"symbol":"GNOXBT","bar_num":1}
+2021-01-03 17:48:33,609 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHXXBT Subscriber OHLC output = {"volume":0.13954,"event":"ohlc_notify","o":0.03468,"h":0.03468,"l":0.03468,"c":0,"symbol":"XETHXXBT","bar_num":1}
+2021-01-03 17:48:33,610 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":87.76891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.3,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:48:33,611 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":89.76891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.3,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:48:33,612 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":94.76891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.3,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:48:33,612 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":132.76891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.3,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:48:33,613 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":134.76891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.3,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:48:33,614 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":139.26891,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.3,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:48:33,614 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":147.43950999999998,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.3,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:48:33,614 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":10.44299784,"event":"ohlc_notify","o":6538.8,"h":6539.7,"l":6537.4,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:48:33,615 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":7448.3,"event":"ohlc_notify","o":0.00008437,"h":0.00008437,"l":0.00008422,"c":0,"symbol":"XXRPXXBT","bar_num":1}
+2021-01-03 17:48:33,615 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":12785.3,"event":"ohlc_notify","o":0.00008437,"h":0.00008437,"l":0.00008422,"c":0,"symbol":"XXRPXXBT","bar_num":1}
+2021-01-03 17:48:33,616 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":13852.55,"event":"ohlc_notify","o":0.00008437,"h":0.00008437,"l":0.00008422,"c":0,"symbol":"XXRPXXBT","bar_num":1}
+2021-01-03 17:48:33,616 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":155.43950999999998,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.3,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:48:33,616 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":190.66351,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.3,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:48:33,617 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":197.43950999999998,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.26,"c":0,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:48:33,619 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":11.02299784,"event":"ohlc_notify","o":6538.8,"h":6539.7,"l":6535,"c":0,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:48:33,620 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":14728.377,"event":"ohlc_notify","o":0.00008437,"h":0.00008437,"l":0.000084,"c":0,"symbol":"XXRPXXBT","bar_num":1}
+2021-01-03 17:48:33,620 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":14790.103000000001,"event":"ohlc_notify","o":0.00008437,"h":0.00008437,"l":0.00008395,"c":0,"symbol":"XXRPXXBT","bar_num":1}
+2021-01-03 17:48:33,623 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAXBT Subscriber OHLC output = {"volume":157.0,"event":"ohlc_notify","o":0.00001272,"h":0.00001272,"l":0.00001272,"c":0,"symbol":"ADAXBT","bar_num":1}
+2021-01-03 17:48:33,624 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAXBT Subscriber OHLC output = {"volume":5876.0,"event":"ohlc_notify","o":0.00001272,"h":0.00001272,"l":0.00001272,"c":0,"symbol":"ADAXBT","bar_num":1}
+2021-01-03 17:48:33,624 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:64) - Not to Publish as Stock Hilti it not subscribed OHLC output = {"volume":2.0,"event":"ohlc_notify","o":0.00001272,"h":0.00001272,"l":0.00001272,"c":0,"symbol":"Hilti","bar_num":1}
+2021-01-03 17:48:33,625 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:64) - Not to Publish as Stock Hilti it not subscribed OHLC output = {"volume":6.0,"event":"ohlc_notify","o":0.00001272,"h":0.00001272,"l":0.00001272,"c":0,"symbol":"Hilti","bar_num":1}
+2021-01-03 17:48:48,194 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock XETHZUSD Published
+2021-01-03 17:48:48,194 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":197.43950999999998,"event":"ohlc_notify","o":226.85,"h":226.85,"l":226.26,"c":226.26,"symbol":"XETHZUSD","bar_num":1}
+2021-01-03 17:48:48,194 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHZUSD Published
+2021-01-03 17:48:48,195 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock XXLMXXBT Published
+2021-01-03 17:48:48,195 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHZUSD","bar_num":2}
+2021-01-03 17:48:48,195 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXLMXXBT Published
+2021-01-03 17:48:48,195 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXLMXXBT Subscriber OHLC output = {"volume":750.0,"event":"ohlc_notify","o":0.00003939,"h":0.00003939,"l":0.00003939,"c":0.00003939,"symbol":"XXLMXXBT","bar_num":1}
+2021-01-03 17:48:48,195 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock XZECXXBT Published
+2021-01-03 17:48:48,196 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXLMXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXLMXXBT","bar_num":2}
+2021-01-03 17:48:48,196 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XZECXXBT Published
+2021-01-03 17:48:48,196 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XZECXXBT Subscriber OHLC output = {"volume":0.1,"event":"ohlc_notify","o":0.01947,"h":0.01947,"l":0.01947,"c":0.01947,"symbol":"XZECXXBT","bar_num":1}
+2021-01-03 17:48:48,196 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock ADAEUR Published
+2021-01-03 17:48:48,196 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAEUR Published
+2021-01-03 17:48:48,196 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XZECXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XZECXXBT","bar_num":2}
+2021-01-03 17:48:48,196 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock ADAXBT Published
+2021-01-03 17:48:48,197 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAEUR Subscriber OHLC output = {"volume":44.0,"event":"ohlc_notify","o":0.07207,"h":0.07207,"l":0.07207,"c":0.07207,"symbol":"ADAEUR","bar_num":1}
+2021-01-03 17:48:48,197 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAXBT Published
+2021-01-03 17:48:48,197 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAEUR Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAEUR","bar_num":2}
+2021-01-03 17:48:48,197 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAXBT Subscriber OHLC output = {"volume":5876.0,"event":"ohlc_notify","o":0.00001272,"h":0.00001272,"l":0.00001272,"c":0.00001272,"symbol":"ADAXBT","bar_num":1}
+2021-01-03 17:48:48,197 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock Hilti Published
+2021-01-03 17:48:48,197 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAXBT","bar_num":2}
+2021-01-03 17:48:48,198 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock Hilti Published
+2021-01-03 17:48:48,198 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock XXRPXXBT Published
+2021-01-03 17:48:48,198 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXRPXXBT Published
+2021-01-03 17:48:48,199 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock XXMRXXBT Published
+2021-01-03 17:48:48,199 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXMRXXBT Published
+2021-01-03 17:48:48,200 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock GNOXBT Published
+2021-01-03 17:48:48,198 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:64) - Not to Publish as Stock Hilti it not subscribed OHLC output = {"volume":6.0,"event":"ohlc_notify","o":0.00001272,"h":0.00001272,"l":0.00001272,"c":0.00001272,"symbol":"Hilti","bar_num":1}
+2021-01-03 17:48:48,200 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:64) - Not to Publish as Stock Hilti it not subscribed OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"Hilti","bar_num":2}
+2021-01-03 17:48:48,200 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":14790.103000000001,"event":"ohlc_notify","o":0.00008437,"h":0.00008437,"l":0.00008395,"c":0.00008395,"symbol":"XXRPXXBT","bar_num":1}
+2021-01-03 17:48:48,200 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock GNOXBT Published
+2021-01-03 17:48:48,200 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock XXBTZUSD Published
+2021-01-03 17:48:48,200 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXBTZUSD Published
+2021-01-03 17:48:48,200 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXRPXXBT","bar_num":2}
+2021-01-03 17:48:48,201 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:52) - Closing bar chart data for stock XETHXXBT Published
+2021-01-03 17:48:48,201 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXMRXXBT Subscriber OHLC output = {"volume":0.1,"event":"ohlc_notify","o":0.017468,"h":0.017468,"l":0.017468,"c":0.017468,"symbol":"XXMRXXBT","bar_num":1}
+2021-01-03 17:48:48,201 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHXXBT Published
+2021-01-03 17:48:48,201 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXMRXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXMRXXBT","bar_num":2}
+2021-01-03 17:48:48,202 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock GNOXBT Subscriber OHLC output = {"volume":1.36283504,"event":"ohlc_notify","o":0.00399,"h":0.00399,"l":0.00399,"c":0.00399,"symbol":"GNOXBT","bar_num":1}
+2021-01-03 17:48:48,202 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock GNOXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"GNOXBT","bar_num":2}
+2021-01-03 17:48:48,202 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":11.02299784,"event":"ohlc_notify","o":6538.8,"h":6539.7,"l":6535,"c":6535,"symbol":"XXBTZUSD","bar_num":1}
+2021-01-03 17:48:48,203 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXBTZUSD","bar_num":2}
+2021-01-03 17:48:48,203 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHXXBT Subscriber OHLC output = {"volume":0.13954,"event":"ohlc_notify","o":0.03468,"h":0.03468,"l":0.03468,"c":0.03468,"symbol":"XETHXXBT","bar_num":1}
+2021-01-03 17:48:48,204 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHXXBT","bar_num":2}
+2021-01-03 17:49:03,201 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHZUSD","bar_num":3}
+2021-01-03 17:49:03,202 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHZUSD Published
+2021-01-03 17:49:03,202 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXLMXXBT Published
+2021-01-03 17:49:03,203 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XZECXXBT Published
+2021-01-03 17:49:03,203 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAEUR Published
+2021-01-03 17:49:03,203 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAXBT Published
+2021-01-03 17:49:03,203 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock Hilti Published
+2021-01-03 17:49:03,203 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXRPXXBT Published
+2021-01-03 17:49:03,203 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXMRXXBT Published
+2021-01-03 17:49:03,205 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock GNOXBT Published
+2021-01-03 17:49:03,203 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXLMXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXLMXXBT","bar_num":3}
+2021-01-03 17:49:03,205 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XZECXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XZECXXBT","bar_num":3}
+2021-01-03 17:49:03,206 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAEUR Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAEUR","bar_num":3}
+2021-01-03 17:49:03,206 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAXBT","bar_num":3}
+2021-01-03 17:49:03,208 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:64) - Not to Publish as Stock Hilti it not subscribed OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"Hilti","bar_num":3}
+2021-01-03 17:49:03,212 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXRPXXBT","bar_num":3}
+2021-01-03 17:49:03,205 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXBTZUSD Published
+2021-01-03 17:49:03,213 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXMRXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXMRXXBT","bar_num":3}
+2021-01-03 17:49:03,218 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock GNOXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"GNOXBT","bar_num":3}
+2021-01-03 17:49:03,218 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXBTZUSD","bar_num":3}
+2021-01-03 17:49:03,219 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHXXBT Published
+2021-01-03 17:49:03,219 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHXXBT","bar_num":3}
+2021-01-03 17:49:18,220 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHZUSD Published
+2021-01-03 17:49:18,220 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHZUSD","bar_num":4}
+2021-01-03 17:49:18,221 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXLMXXBT Published
+2021-01-03 17:49:18,221 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXLMXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXLMXXBT","bar_num":4}
+2021-01-03 17:49:18,221 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XZECXXBT Published
+2021-01-03 17:49:18,221 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAEUR Published
+2021-01-03 17:49:18,222 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAXBT Published
+2021-01-03 17:49:18,221 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XZECXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XZECXXBT","bar_num":4}
+2021-01-03 17:49:18,222 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock Hilti Published
+2021-01-03 17:49:18,222 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAEUR Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAEUR","bar_num":4}
+2021-01-03 17:49:18,222 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXRPXXBT Published
+2021-01-03 17:49:18,222 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAXBT","bar_num":4}
+2021-01-03 17:49:18,222 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXMRXXBT Published
+2021-01-03 17:49:18,223 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:64) - Not to Publish as Stock Hilti it not subscribed OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"Hilti","bar_num":4}
+2021-01-03 17:49:18,223 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock GNOXBT Published
+2021-01-03 17:49:18,223 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXRPXXBT","bar_num":4}
+2021-01-03 17:49:18,223 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXBTZUSD Published
+2021-01-03 17:49:18,223 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXMRXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXMRXXBT","bar_num":4}
+2021-01-03 17:49:18,223 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHXXBT Published
+2021-01-03 17:49:18,224 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock GNOXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"GNOXBT","bar_num":4}
+2021-01-03 17:49:18,224 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXBTZUSD","bar_num":4}
+2021-01-03 17:49:18,224 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHXXBT","bar_num":4}
+2021-01-03 17:49:33,224 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHZUSD Published
+2021-01-03 17:49:33,224 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHZUSD","bar_num":5}
+2021-01-03 17:49:33,224 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXLMXXBT Published
+2021-01-03 17:49:33,225 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XZECXXBT Published
+2021-01-03 17:49:33,225 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAEUR Published
+2021-01-03 17:49:33,225 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAXBT Published
+2021-01-03 17:49:33,224 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXLMXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXLMXXBT","bar_num":5}
+2021-01-03 17:49:33,225 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock Hilti Published
+2021-01-03 17:49:33,226 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XZECXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XZECXXBT","bar_num":5}
+2021-01-03 17:49:33,226 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXRPXXBT Published
+2021-01-03 17:49:33,226 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXMRXXBT Published
+2021-01-03 17:49:33,226 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAEUR Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAEUR","bar_num":5}
+2021-01-03 17:49:33,227 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAXBT","bar_num":5}
+2021-01-03 17:49:33,227 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock GNOXBT Published
+2021-01-03 17:49:33,227 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:64) - Not to Publish as Stock Hilti it not subscribed OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"Hilti","bar_num":5}
+2021-01-03 17:49:33,227 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXBTZUSD Published
+2021-01-03 17:49:33,228 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHXXBT Published
+2021-01-03 17:49:33,227 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXRPXXBT","bar_num":5}
+2021-01-03 17:49:33,229 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXMRXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXMRXXBT","bar_num":5}
+2021-01-03 17:49:33,229 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock GNOXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"GNOXBT","bar_num":5}
+2021-01-03 17:49:33,229 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXBTZUSD","bar_num":5}
+2021-01-03 17:49:33,230 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHXXBT","bar_num":5}
+2021-01-03 17:49:48,228 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHZUSD Published
+2021-01-03 17:49:48,228 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHZUSD","bar_num":6}
+2021-01-03 17:49:48,228 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXLMXXBT Published
+2021-01-03 17:49:48,229 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XZECXXBT Published
+2021-01-03 17:49:48,229 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAEUR Published
+2021-01-03 17:49:48,229 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAXBT Published
+2021-01-03 17:49:48,229 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock Hilti Published
+2021-01-03 17:49:48,229 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXRPXXBT Published
+2021-01-03 17:49:48,229 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXLMXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXLMXXBT","bar_num":6}
+2021-01-03 17:49:48,230 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXMRXXBT Published
+2021-01-03 17:49:48,230 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XZECXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XZECXXBT","bar_num":6}
+2021-01-03 17:49:48,230 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock GNOXBT Published
+2021-01-03 17:49:48,230 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAEUR Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAEUR","bar_num":6}
+2021-01-03 17:49:48,230 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXBTZUSD Published
+2021-01-03 17:49:48,231 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAXBT","bar_num":6}
+2021-01-03 17:49:48,231 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHXXBT Published
+2021-01-03 17:49:48,231 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:64) - Not to Publish as Stock Hilti it not subscribed OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"Hilti","bar_num":6}
+2021-01-03 17:49:48,231 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXRPXXBT","bar_num":6}
+2021-01-03 17:49:48,231 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXMRXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXMRXXBT","bar_num":6}
+2021-01-03 17:49:48,232 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock GNOXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"GNOXBT","bar_num":6}
+2021-01-03 17:49:48,232 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXBTZUSD","bar_num":6}
+2021-01-03 17:49:48,232 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHXXBT","bar_num":6}
+2021-01-03 17:50:03,231 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHZUSD Published
+2021-01-03 17:50:03,231 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHZUSD","bar_num":7}
+2021-01-03 17:50:03,231 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXLMXXBT Published
+2021-01-03 17:50:03,234 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XZECXXBT Published
+2021-01-03 17:50:03,234 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAEUR Published
+2021-01-03 17:50:03,234 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAXBT Published
+2021-01-03 17:50:03,234 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock Hilti Published
+2021-01-03 17:50:03,234 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXRPXXBT Published
+2021-01-03 17:50:03,234 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXMRXXBT Published
+2021-01-03 17:50:03,235 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock GNOXBT Published
+2021-01-03 17:50:03,235 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXBTZUSD Published
+2021-01-03 17:50:03,236 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHXXBT Published
+2021-01-03 17:50:03,232 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXLMXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXLMXXBT","bar_num":7}
+2021-01-03 17:50:03,242 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XZECXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XZECXXBT","bar_num":7}
+2021-01-03 17:50:03,243 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAEUR Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAEUR","bar_num":7}
+2021-01-03 17:50:03,243 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAXBT","bar_num":7}
+2021-01-03 17:50:03,243 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:64) - Not to Publish as Stock Hilti it not subscribed OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"Hilti","bar_num":7}
+2021-01-03 17:50:03,243 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXRPXXBT","bar_num":7}
+2021-01-03 17:50:03,244 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXMRXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXMRXXBT","bar_num":7}
+2021-01-03 17:50:03,244 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock GNOXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"GNOXBT","bar_num":7}
+2021-01-03 17:50:03,245 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXBTZUSD","bar_num":7}
+2021-01-03 17:50:03,245 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHXXBT","bar_num":7}
+2021-01-03 17:50:18,236 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHZUSD Published
+2021-01-03 17:50:18,236 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHZUSD","bar_num":8}
+2021-01-03 17:50:18,237 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXLMXXBT Published
+2021-01-03 17:50:18,238 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXLMXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXLMXXBT","bar_num":8}
+2021-01-03 17:50:18,238 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XZECXXBT Published
+2021-01-03 17:50:18,238 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAEUR Published
+2021-01-03 17:50:18,238 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XZECXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XZECXXBT","bar_num":8}
+2021-01-03 17:50:18,238 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAXBT Published
+2021-01-03 17:50:18,239 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAEUR Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAEUR","bar_num":8}
+2021-01-03 17:50:18,239 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAXBT","bar_num":8}
+2021-01-03 17:50:18,239 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock Hilti Published
+2021-01-03 17:50:18,240 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:64) - Not to Publish as Stock Hilti it not subscribed OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"Hilti","bar_num":8}
+2021-01-03 17:50:18,240 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXRPXXBT Published
+2021-01-03 17:50:18,240 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXMRXXBT Published
+2021-01-03 17:50:18,240 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock GNOXBT Published
+2021-01-03 17:50:18,240 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXRPXXBT","bar_num":8}
+2021-01-03 17:50:18,241 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXBTZUSD Published
+2021-01-03 17:50:18,241 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHXXBT Published
+2021-01-03 17:50:18,241 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXMRXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXMRXXBT","bar_num":8}
+2021-01-03 17:50:18,242 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock GNOXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"GNOXBT","bar_num":8}
+2021-01-03 17:50:18,242 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXBTZUSD","bar_num":8}
+2021-01-03 17:50:18,243 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHXXBT","bar_num":8}
+2021-01-03 17:50:33,241 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHZUSD Published
+2021-01-03 17:50:33,241 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHZUSD","bar_num":9}
+2021-01-03 17:50:33,243 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXLMXXBT Published
+2021-01-03 17:50:33,243 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXLMXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXLMXXBT","bar_num":9}
+2021-01-03 17:50:33,243 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XZECXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XZECXXBT","bar_num":9}
+2021-01-03 17:50:33,243 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XZECXXBT Published
+2021-01-03 17:50:33,243 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAEUR Published
+2021-01-03 17:50:33,243 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAEUR Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAEUR","bar_num":9}
+2021-01-03 17:50:33,243 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAXBT Published
+2021-01-03 17:50:33,243 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAXBT","bar_num":9}
+2021-01-03 17:50:33,247 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:64) - Not to Publish as Stock Hilti it not subscribed OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"Hilti","bar_num":9}
+2021-01-03 17:50:33,243 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock Hilti Published
+2021-01-03 17:50:33,247 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXRPXXBT Published
+2021-01-03 17:50:33,247 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXMRXXBT Published
+2021-01-03 17:50:33,247 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXRPXXBT","bar_num":9}
+2021-01-03 17:50:33,247 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock GNOXBT Published
+2021-01-03 17:50:33,248 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXBTZUSD Published
+2021-01-03 17:50:33,248 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXMRXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXMRXXBT","bar_num":9}
+2021-01-03 17:50:33,248 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock GNOXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"GNOXBT","bar_num":9}
+2021-01-03 17:50:33,248 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHXXBT Published
+2021-01-03 17:50:33,249 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXBTZUSD","bar_num":9}
+2021-01-03 17:50:33,250 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHXXBT","bar_num":9}
+2021-01-03 17:50:48,249 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHZUSD Published
+2021-01-03 17:50:48,249 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHZUSD","bar_num":10}
+2021-01-03 17:50:48,249 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXLMXXBT Published
+2021-01-03 17:50:48,249 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXLMXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXLMXXBT","bar_num":10}
+2021-01-03 17:50:48,249 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XZECXXBT Published
+2021-01-03 17:50:48,250 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XZECXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XZECXXBT","bar_num":10}
+2021-01-03 17:50:48,250 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAEUR Published
+2021-01-03 17:50:48,250 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAEUR Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAEUR","bar_num":10}
+2021-01-03 17:50:48,250 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAXBT Published
+2021-01-03 17:50:48,250 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAXBT","bar_num":10}
+2021-01-03 17:50:48,250 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock Hilti Published
+2021-01-03 17:50:48,251 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:64) - Not to Publish as Stock Hilti it not subscribed OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"Hilti","bar_num":10}
+2021-01-03 17:50:48,251 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXRPXXBT Published
+2021-01-03 17:50:48,251 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXRPXXBT","bar_num":10}
+2021-01-03 17:50:48,252 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXMRXXBT Published
+2021-01-03 17:50:48,252 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock GNOXBT Published
+2021-01-03 17:50:48,252 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXBTZUSD Published
+2021-01-03 17:50:48,252 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHXXBT Published
+2021-01-03 17:50:48,252 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXMRXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXMRXXBT","bar_num":10}
+2021-01-03 17:50:48,252 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock GNOXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"GNOXBT","bar_num":10}
+2021-01-03 17:50:48,257 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXBTZUSD","bar_num":10}
+2021-01-03 17:50:48,257 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHXXBT","bar_num":10}
+2021-01-03 17:51:03,252 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHZUSD Published
+2021-01-03 17:51:03,252 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHZUSD","bar_num":11}
+2021-01-03 17:51:03,252 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXLMXXBT Published
+2021-01-03 17:51:03,252 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXLMXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXLMXXBT","bar_num":11}
+2021-01-03 17:51:03,253 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XZECXXBT Published
+2021-01-03 17:51:03,253 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XZECXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XZECXXBT","bar_num":11}
+2021-01-03 17:51:03,253 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAEUR Published
+2021-01-03 17:51:03,253 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAEUR Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAEUR","bar_num":11}
+2021-01-03 17:51:03,253 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAXBT Published
+2021-01-03 17:51:03,253 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAXBT","bar_num":11}
+2021-01-03 17:51:03,253 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock Hilti Published
+2021-01-03 17:51:03,254 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:64) - Not to Publish as Stock Hilti it not subscribed OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"Hilti","bar_num":11}
+2021-01-03 17:51:03,254 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXRPXXBT Published
+2021-01-03 17:51:03,255 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXRPXXBT","bar_num":11}
+2021-01-03 17:51:03,256 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXMRXXBT Published
+2021-01-03 17:51:03,256 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXMRXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXMRXXBT","bar_num":11}
+2021-01-03 17:51:03,256 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock GNOXBT Published
+2021-01-03 17:51:03,256 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock GNOXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"GNOXBT","bar_num":11}
+2021-01-03 17:51:03,256 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXBTZUSD Published
+2021-01-03 17:51:03,256 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXBTZUSD","bar_num":11}
+2021-01-03 17:51:03,257 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHXXBT Published
+2021-01-03 17:51:03,257 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHXXBT","bar_num":11}
+2021-01-03 17:51:18,258 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHZUSD Published
+2021-01-03 17:51:18,258 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHZUSD","bar_num":12}
+2021-01-03 17:51:18,258 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXLMXXBT Published
+2021-01-03 17:51:18,258 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXLMXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXLMXXBT","bar_num":12}
+2021-01-03 17:51:18,258 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XZECXXBT Published
+2021-01-03 17:51:18,259 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAEUR Published
+2021-01-03 17:51:18,259 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAXBT Published
+2021-01-03 17:51:18,259 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock Hilti Published
+2021-01-03 17:51:18,259 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XZECXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XZECXXBT","bar_num":12}
+2021-01-03 17:51:18,259 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXRPXXBT Published
+2021-01-03 17:51:18,259 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXMRXXBT Published
+2021-01-03 17:51:18,259 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAEUR Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAEUR","bar_num":12}
+2021-01-03 17:51:18,260 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock GNOXBT Published
+2021-01-03 17:51:18,260 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAXBT","bar_num":12}
+2021-01-03 17:51:18,260 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXBTZUSD Published
+2021-01-03 17:51:18,260 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:64) - Not to Publish as Stock Hilti it not subscribed OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"Hilti","bar_num":12}
+2021-01-03 17:51:18,260 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHXXBT Published
+2021-01-03 17:51:18,260 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXRPXXBT","bar_num":12}
+2021-01-03 17:51:18,261 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXMRXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXMRXXBT","bar_num":12}
+2021-01-03 17:51:18,261 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock GNOXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"GNOXBT","bar_num":12}
+2021-01-03 17:51:18,262 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXBTZUSD","bar_num":12}
+2021-01-03 17:51:18,262 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHXXBT","bar_num":12}
+2021-01-03 17:51:33,260 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHZUSD Published
+2021-01-03 17:51:33,260 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHZUSD","bar_num":13}
+2021-01-03 17:51:33,261 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXLMXXBT Published
+2021-01-03 17:51:33,261 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXLMXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXLMXXBT","bar_num":13}
+2021-01-03 17:51:33,261 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XZECXXBT Published
+2021-01-03 17:51:33,261 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XZECXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XZECXXBT","bar_num":13}
+2021-01-03 17:51:33,261 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAEUR Published
+2021-01-03 17:51:33,261 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAEUR Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAEUR","bar_num":13}
+2021-01-03 17:51:33,262 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAXBT Published
+2021-01-03 17:51:33,262 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAXBT","bar_num":13}
+2021-01-03 17:51:33,262 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock Hilti Published
+2021-01-03 17:51:33,262 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:64) - Not to Publish as Stock Hilti it not subscribed OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"Hilti","bar_num":13}
+2021-01-03 17:51:33,262 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXRPXXBT Published
+2021-01-03 17:51:33,262 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXRPXXBT","bar_num":13}
+2021-01-03 17:51:33,263 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXMRXXBT Published
+2021-01-03 17:51:33,263 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXMRXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXMRXXBT","bar_num":13}
+2021-01-03 17:51:33,265 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock GNOXBT Published
+2021-01-03 17:51:33,265 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock GNOXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"GNOXBT","bar_num":13}
+2021-01-03 17:51:33,265 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXBTZUSD Published
+2021-01-03 17:51:33,266 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXBTZUSD","bar_num":13}
+2021-01-03 17:51:33,266 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHXXBT","bar_num":13}
+2021-01-03 17:51:33,266 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHXXBT Published
+2021-01-03 17:51:48,266 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHZUSD Published
+2021-01-03 17:51:48,266 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHZUSD","bar_num":14}
+2021-01-03 17:51:48,266 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXLMXXBT Published
+2021-01-03 17:51:48,266 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXLMXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXLMXXBT","bar_num":14}
+2021-01-03 17:51:48,266 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XZECXXBT Published
+2021-01-03 17:51:48,267 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XZECXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XZECXXBT","bar_num":14}
+2021-01-03 17:51:48,267 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAEUR Published
+2021-01-03 17:51:48,267 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAEUR Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAEUR","bar_num":14}
+2021-01-03 17:51:48,267 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAXBT Published
+2021-01-03 17:51:48,267 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAXBT","bar_num":14}
+2021-01-03 17:51:48,267 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock Hilti Published
+2021-01-03 17:51:48,268 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:64) - Not to Publish as Stock Hilti it not subscribed OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"Hilti","bar_num":14}
+2021-01-03 17:51:48,268 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXRPXXBT Published
+2021-01-03 17:51:48,268 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXRPXXBT","bar_num":14}
+2021-01-03 17:51:48,269 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXMRXXBT Published
+2021-01-03 17:51:48,269 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXMRXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXMRXXBT","bar_num":14}
+2021-01-03 17:51:48,269 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock GNOXBT Published
+2021-01-03 17:51:48,269 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock GNOXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"GNOXBT","bar_num":14}
+2021-01-03 17:51:48,270 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXBTZUSD Published
+2021-01-03 17:51:48,271 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXBTZUSD","bar_num":14}
+2021-01-03 17:51:48,271 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHXXBT Published
+2021-01-03 17:51:48,271 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHXXBT","bar_num":14}
+2021-01-03 17:52:03,271 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHZUSD Published
+2021-01-03 17:52:03,271 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHZUSD","bar_num":15}
+2021-01-03 17:52:03,271 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXLMXXBT Published
+2021-01-03 17:52:03,271 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXLMXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXLMXXBT","bar_num":15}
+2021-01-03 17:52:03,272 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XZECXXBT Published
+2021-01-03 17:52:03,272 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XZECXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XZECXXBT","bar_num":15}
+2021-01-03 17:52:03,272 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAEUR Published
+2021-01-03 17:52:03,273 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock ADAXBT Published
+2021-01-03 17:52:03,273 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAEUR Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAEUR","bar_num":15}
+2021-01-03 17:52:03,273 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock Hilti Published
+2021-01-03 17:52:03,273 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock ADAXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"ADAXBT","bar_num":15}
+2021-01-03 17:52:03,273 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXRPXXBT Published
+2021-01-03 17:52:03,274 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:64) - Not to Publish as Stock Hilti it not subscribed OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"Hilti","bar_num":15}
+2021-01-03 17:52:03,274 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXMRXXBT Published
+2021-01-03 17:52:03,275 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXRPXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXRPXXBT","bar_num":15}
+2021-01-03 17:52:03,275 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock GNOXBT Published
+2021-01-03 17:52:03,276 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXMRXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXMRXXBT","bar_num":15}
+2021-01-03 17:52:03,276 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock GNOXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"GNOXBT","bar_num":15}
+2021-01-03 17:52:03,276 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XXBTZUSD Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XXBTZUSD","bar_num":15}
+2021-01-03 17:52:03,277 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XXBTZUSD Published
+2021-01-03 17:52:03,277 +0530 [Thread-1] INFO  (FiniteStateMachineConsumer.java:59) - Default bar chart data for stock XETHXXBT Published
+2021-01-03 17:52:03,277 +0530 [Thread-2] INFO  (ClientSubscriptionWorker.java:62) - Stock XETHXXBT Subscriber OHLC output = {"volume":0.0,"event":"ohlc_notify","symbol":"XETHXXBT","bar_num":15}
