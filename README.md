@@ -44,7 +44,7 @@
  ###### Default in case no trading data available OHLC output =
         {"volume":0.0,"event":"ohlc_notify","symbol":"XETHZUSD","bar_num":3}
 
- ###### Performance statistics (Sample done for 1)
+ ###### Performance statistics using Histogram (Sample done for 1)
         TradeDataProducer - Trade data file reading and publishing trade to queue completed. Total time took = 0.342181 Second
 
  ###### Additionally logs are also added to log file name upstox-service.log, which is generate in project folder
