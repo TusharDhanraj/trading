@@ -1,12 +1,19 @@
 #Prerequisite
+    
     Java 8 +
+    
     Gradle 6.7.1
     
+    
 #How to Run
+
     1. Download zip or checkout this project from git
+    
     2. Jump to folder and run using below two options
         a. Can be run using => gradle run
+        
         b. UpstoxApplicationRunner is a Main class, can be run using any IDE
+        
         c. First clean build to create lib and then run second command
             gradle clean build
             java -jar build\libs\upstox-assignment-1.0-SNAPSHOT.jar
